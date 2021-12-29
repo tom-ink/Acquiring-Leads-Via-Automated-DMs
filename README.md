@@ -1,5 +1,5 @@
-# Acquiring-Leads-Via-Automated-DMs
-Systematically send personalised Direct Messages to members of an online platform through the platform's own chatting system in order to introduce us and direct the members to our landing page.
+# Acquiring Leads Via Automated DMs
+Sending personalized Direct Messages to members of an online platform through the platform's own chatting system in order to introduce us and direct the members to our landing page.
 
 ## This repo is for demo only
 <ul>
